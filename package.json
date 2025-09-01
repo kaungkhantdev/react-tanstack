@@ -12,6 +12,7 @@
   "dependencies": {
     "@faker-js/faker": "^9.9.0",
     "@radix-ui/react-slot": "^1.2.3",
+    "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.11",
     "@tanstack/react-table": "^8.21.3",
     "class-variance-authority": "^0.7.1",
@@ -19,6 +20,7 @@
     "lucide-react": "^0.539.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-redux": "^9.2.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.11"
   },
